@@ -19,7 +19,7 @@ Model of a JSON game description
         "title": {"fr":"Borgia, le jeu malsain"},
         "description": {"fr":"Grâce à ce jeu de carte fabuleusement illustré et immoralement conçu, vous allez, si tant est que vous soyez majeur, partager le sort de l’une des personnalités qui vécue en 1492, au côté du Pape Alexandre VI, dans la Rome des Borgia."},
         "themes": {"fr":["Médiéval", "Salopard", "Religion"]},
-        "publication_year": "2012",
+        "publication_year": 2012,
         "publishers": ["Les Chiens de l'Enfer"],
         "authors": ["Julien Maudet", "Mary Christides"],
         "illustrators": ["Aurélien Biard", "Mary Christides"],
