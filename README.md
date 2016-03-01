@@ -14,24 +14,24 @@ Each of your game should be made of :
 Model of a JSON game description
 
     {
-        "type": "Jeu de plateau",
-        "genres": ["social", "stratégie"],
-        "title": "Borgia, le jeu malsain",
-        "description": "Grâce à ce jeu de carte fabuleusement illustré et immoralement conçu, vous allez, si tant est que vous soyez majeur, partager le sort de l’une des personnalités qui vécue en 1492, au côté du Pape Alexandre VI, dans la Rome des Borgia.",
-        "themes": ["Médiéval", "Salopard", "Religion"],
+        "type": "game",
+        "genres": {"fr":["social", "stratégie"]},
+        "title": {"fr":"Borgia, le jeu malsain"},
+        "description": {"fr":"Grâce à ce jeu de carte fabuleusement illustré et immoralement conçu, vous allez, si tant est que vous soyez majeur, partager le sort de l’une des personnalités qui vécue en 1492, au côté du Pape Alexandre VI, dans la Rome des Borgia."},
+        "themes": {"fr":["Médiéval", "Salopard", "Religion"]},
         "publication_year": "2012",
         "editors": ["Les Chiens de l'Enfer"],
         "authors": ["Julien Maudet", "Mary Christides"],
         "illustrators": ["Aurélien Biard", "Mary Christides"],
-        "audience": "Adultes",
+        "audience": "adults",
         "players_min": 3,
         "players_max": 6,
         "fab_time": 120,
         "duration": 60,
-        "requirements": ["imprimante"],
+        "requirements": {"fr":["imprimante"]},
         "source": "http://leschiensdelenfer.org/editions-chiens-de-lenfer/borgia-le-jeu-malsain/",
         "license": "CC BY-NC-SA 4.0",
-        "languages": ["Français"],
+        "languages": ["fr"],
         "ISBN": [],
-        "timestamp_add": "10/10/2015 14:52:35",
+        "timestamp_add": "10/10/2015 14:52:35"
     }
