@@ -15,6 +15,7 @@ Model of a JSON game description
 
     {
         "type": "Jeu de plateau",
+        "genres": ["social", "stratégie"],
         "title": "Borgia, le jeu malsain",
         "description": "Grâce à ce jeu de carte fabuleusement illustré et immoralement conçu, vous allez, si tant est que vous soyez majeur, partager le sort de l’une des personnalités qui vécue en 1492, au côté du Pape Alexandre VI, dans la Rome des Borgia.",
         "themes": ["Médiéval", "Salopard", "Religion"],
@@ -31,5 +32,6 @@ Model of a JSON game description
         "source": "http://leschiensdelenfer.org/editions-chiens-de-lenfer/borgia-le-jeu-malsain/",
         "license": "CC BY-NC-SA 4.0",
         "languages": ["Français"],
+        "ISBN": [],
         "timestamp_add": "10/10/2015 14:52:35",
     }
