@@ -1,0 +1,4 @@
+# Editor specific stuff ########################################################
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
