@@ -29,7 +29,7 @@ Model of a JSON game description
         "duration": 60,
         "requirements": ["imprimante"],
         "source": "http://leschiensdelenfer.org/editions-chiens-de-lenfer/borgia-le-jeu-malsain/",
-        "license": "CC BY NC SA 4.0",
+        "license": "CC BY-NC-SA 4.0",
         "languages": ["Français"],
         "timestamp_add": "10/10/2015 14:52:35",
     }
