@@ -6,8 +6,8 @@ These are clean files for the Borgia game. It can be used as a sample to distrib
 Each of your game should be made of :
 
 * a folder named with the name of your game in lowercase and slugified - ex : ```borgia-le-jeu-malsain```
-* a JSON file containing information about your game - ex. ```/borgia-le-jeu-malsain/game-info.json```
-* any files attached to the game as one big zip file - ex. ```/borgia-le-jeu-malsain/borgia-le-jeu-malsain-files.zip```
+* a JSON file containing information about your game - ex. ```/borgia-le-jeu-malsain/info.json```
+* any files attached to the game in a `file` subfolder - ex. ```/borgia-le-jeu-malsain/files/mygame.zip```
 
 ### Data model
 
