@@ -13,15 +13,15 @@
     "publication_year": 2012
   },
   "description" :{
-    "number_of_players": {
-        "players_max": 3, 
-        "players_min": 6
-     },
     "summary" : "Grâce à ce jeu de carte fabuleusement illustré et immoralement conçu, vous allez, si tant est que vous soyez majeur, partager le sort de l’une des personnalités qui vécue en 1492, au côté du Pape Alexandre VI, dans la Rome des Borgia.",
     "genres": ["social", "stratégie"],
     "themes": ["Médiéval", "Salopard", "Religion"]
   },
   "audience" : {
+     "number_of_players": {
+        "players_max": 3, 
+        "players_min": 6
+     },
     "language": "fr",
     "duration": 60,
     "age": [
